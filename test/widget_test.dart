@@ -28,3 +28,7 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
+
+//とりあえずエラー無くすため作成
+Widget MyApp() {
+}
