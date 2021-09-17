@@ -28,7 +28,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 Text(
                   'Flash Chat',
                   style: TextStyle(
-                    fontSize: 55.0,
+                    fontSize: 50.0,
                     fontWeight: FontWeight.w900,
                   ),
                 ),
