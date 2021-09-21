@@ -28,14 +28,14 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 Text(
                   'Flash Chat',
                   style: TextStyle(
-                    fontSize: 55.0,
+                    fontSize: 60.0,
                     fontWeight: FontWeight.w900,
                   ),
                 ),
               ],
             ),
             SizedBox(
-              height: 55.0,
+              height: 50.0,
             ),
             Padding(
               padding: EdgeInsets.symmetric(vertical: 16.0),
