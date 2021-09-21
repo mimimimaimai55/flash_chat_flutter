@@ -35,7 +35,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               ],
             ),
             SizedBox(
-              height: 50.0,
+              height: 55.0,
             ),
             Padding(
               padding: EdgeInsets.symmetric(vertical: 16.0),
