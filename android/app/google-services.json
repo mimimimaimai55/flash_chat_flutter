@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310930228707",
+    "project_id": "flush-chat-22cee",
+    "storage_bucket": "flush-chat-22cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310930228707:android:e1833bcbb8e615c5b94cd6",
+        "android_client_info": {
+          "package_name": "co.MaiMizuho.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310930228707-cvgu33bcsbb155u76lmtf358a9dk8r5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-WWj0nwZPpLxPNDRYyhukkjeOrh_OWzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310930228707-cvgu33bcsbb155u76lmtf358a9dk8r5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
